@@ -3,7 +3,7 @@
  * @param {number} amount
  * @return {number}
  */
-var coinChange = function (coins, amount) {
+var coinChange = function(coins, amount) {
   let solutions = new Array(amount + 1);
   solutions[0] = 0;
 
@@ -18,7 +18,7 @@ var coinChange = function (coins, amount) {
     }
 
     // Store the minimum amount of coins, or -1 if the amount cannot be made
-    solutions[currAmount] = (minCoins < Number.MAX_VALUE ? minCoins : -1);
+    solutions[currAmount] = minCoins < Number.MAX_VALUE ? minCoins : -1;
   }
 
   return solutions[amount];

@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLongestSubstring = function (s) {
+var lengthOfLongestSubstring = function(s) {
   // Initialize a sum and a map of characters to indicies
   let solution = 0;
   let chars = new Map();
