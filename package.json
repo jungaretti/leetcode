@@ -11,5 +11,6 @@
   },
   "scripts": {
     "format": "prettier problems/*/*.js"
-  }
+  },
+  "prettier": {}
 }
