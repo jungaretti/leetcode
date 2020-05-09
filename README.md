@@ -23,4 +23,6 @@ My solutions to problems from [LeetCode](https://leetcode.com/jungaretti/).
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Partition List](https://leetcode.com/problems/partition-list/)
+- [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
