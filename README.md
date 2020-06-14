@@ -6,6 +6,7 @@ My solutions to problems from [LeetCode](https://leetcode.com/jungaretti/).
 
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
