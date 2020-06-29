@@ -4,7 +4,7 @@
   "description": "Solutions to problems from LeetCode",
   "main": "index.js",
   "repository": "git@github.com:jungaretti/leetcode.git",
-  "author": "James Ungaretti <hello@jungaretti.com>",
+  "author": "JP Ungaretti <hello@jungaretti.com>",
   "license": "MIT",
   "devDependencies": {
     "prettier": "1.19.1"
