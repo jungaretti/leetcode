@@ -9,7 +9,7 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var reverseList = function(head) {
+var reverseList = function (head) {
   // Lists with length 0 or 1 do not need to be reversed
   if (head == null || head.next == null) {
     return head;

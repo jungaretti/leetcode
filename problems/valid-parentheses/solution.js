@@ -2,12 +2,12 @@
  * @param {string} s
  * @return {boolean}
  */
-var isValid = function(s) {
+var isValid = function (s) {
   // Initialize some helpful resources, including a stack for symbols
   const symbolPairs = new Map([
     [")", "("],
     ["}", "{"],
-    ["]", "["]
+    ["]", "["],
   ]);
   let symbolStack = new Array();
 

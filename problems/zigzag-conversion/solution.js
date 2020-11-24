@@ -3,7 +3,7 @@
  * @param {number} numRows
  * @return {string}
  */
-var convert = function(s, numRows) {
+var convert = function (s, numRows) {
   let allRows = new Array(numRows).fill("");
 
   let row = 0;

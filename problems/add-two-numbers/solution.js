@@ -11,7 +11,7 @@
  * @param {ListNode} l2
  * @return {ListNode}
  */
-var addTwoNumbers = function(l1, l2) {
+var addTwoNumbers = function (l1, l2) {
   // Initialize a new list
   let prehead = new ListNode(0);
   let current = prehead;

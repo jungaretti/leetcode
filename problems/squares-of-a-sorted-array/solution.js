@@ -2,11 +2,11 @@
  * @param {number[]} A
  * @return {number[]}
  */
-var sortedSquares = function(A) {
+var sortedSquares = function (A) {
   // Initialize a solution array
   let squares = new Array(A.length);
 
-  const pivot = A.findIndex(function(element) {
+  const pivot = A.findIndex(function (element) {
     return element > 0;
   });
 

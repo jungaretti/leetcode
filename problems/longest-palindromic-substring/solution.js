@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {string}
  */
-var longestPalindrome = function(s) {
+var longestPalindrome = function (s) {
   // The solution represented by its inclusive bounds
   let startIndex = 0;
   let endIndex = 0;

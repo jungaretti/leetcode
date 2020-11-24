@@ -3,7 +3,7 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function(nums, target) {
+var twoSum = function (nums, target) {
   // Initialize a map to store found complements and their indicies
   let allComps = new Map();
 

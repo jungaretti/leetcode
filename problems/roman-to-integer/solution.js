@@ -3,7 +3,7 @@
  * @param {string} r The roman numeral to convert
  * @return {number}
  */
-var romanValue = function(r) {
+var romanValue = function (r) {
   switch (r) {
     case "I":
       return 1;
@@ -28,7 +28,7 @@ var romanValue = function(r) {
  * @param {string} s
  * @return {number}
  */
-var romanToInt = function(s) {
+var romanToInt = function (s) {
   let solution = 0;
 
   let previous;

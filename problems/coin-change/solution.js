@@ -3,7 +3,7 @@
  * @param {number} amount
  * @return {number}
  */
-var coinChange = function(coins, amount) {
+var coinChange = function (coins, amount) {
   let solutions = new Array(amount + 1);
   solutions[0] = 0;
 
